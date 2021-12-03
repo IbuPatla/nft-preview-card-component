@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ibupatla.github.io/nft-preview-card-component/)
+- Solution URL: [Github](https://github.com/IbuPatla/nft-preview-card-component)
+- Live Site URL: [My Site](https://ibupatla.github.io/nft-preview-card-component/)
 
 ## My process
 
